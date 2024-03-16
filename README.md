@@ -1,3 +1,5 @@
+This project was assigned by Professor Panos Louridas, during my Applied Machine Learning course.
+
 # Installatation
 
 ## Data Resources
