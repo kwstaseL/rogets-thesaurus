@@ -1,4 +1,7 @@
+# Analyzing Roget’s Thesaurus with Machine Learning
 This project was assigned by Professor Panos Louridas, during my Applied Machine Learning course.
+
+Utilized Beautiful Soup for web scraping, applied text preprocessing and feature extraction, implemented clustering methods for grouping words, applied machine learning algorithms with Sklearn, and used TensorFlow to build and optimize deep learning models for hierarchical word categorization.
 
 # Installatation
 
